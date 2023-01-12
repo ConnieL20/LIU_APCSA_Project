@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f98dfc-82f9-490f-a2f0-90d5a1667903" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIU_APCSA_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/DragonSlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/DragonSlayerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/Dumpling_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/Dumpling_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/Dumpling_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/player/Dumpling_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/grass01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/water01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU_APCSA_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LIU_APCSA_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +52,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/maps" />
+      <recent name="$PROJECT_DIR$/res/tiles" />
+      <recent name="$PROJECT_DIR$/res/player" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
